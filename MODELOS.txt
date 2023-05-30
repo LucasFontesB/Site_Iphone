@@ -1,0 +1,30 @@
+<h3>iPhone 13 Pro</h3>
+                    <ul>
+                        <li>Tela OLED sem bordas com ProMotion de 6,7 pol. ou 6,1 pol.</li>
+                        <li>Sistema de câmera Pro. Teleobjetiva, grande-angular e ultra-angular</li>
+                        <li>Chip A15 Bionic</li>
+                    </ul>
+
+
+<h3>iPhone 13</h3>
+                    <ul>
+                        <li>Tela OLED sem bordas de 6,1 pol. ou 5,4 pol.</li>
+                        <li>Sistema avançado de câmera dupla</li>
+                        <li>Chip A15 Bionic</li>
+                    </ul>
+
+
+<h3>iPhone 12</h3>
+                    <ul>
+                        <li>Tela OLED sem bordas de 6,1 pol. ou 5,4 pol.</li>
+                        <li>Sistema de câmera dupla</li>
+                        <li>Chip A15 Bionic</li>
+                    </ul>
+
+
+<h3>iPhone SE (3ª geração)</h3>
+                    <ul>
+                        <li>Tela LCD</li>
+                        <li>Sistema de câmera única</li>
+                        <li>Chip A15 Bionic</li>
+                    </ul>
